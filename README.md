@@ -1,8 +1,8 @@
 #Rick and Morty Website using RickAndMortyApi
 Link:https://rickandmortyapiv1.vercel.app/
 
-
-
+![Screenshot](rickpage.JPG)
+![Screenshot](rickcard.JPG)
 
 # Getting Started with Create React App
 
