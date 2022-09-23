@@ -1,7 +1,13 @@
-#Rick and Morty Website using RickAndMortyApi
-Link:https://rickandmortyapiv1.vercel.app/
+# Rick and Morty Characters Details
 
+This website basically fetches data from the RickandMortyAPI and displays the details of all Characters on cards.
+The website was built using HTML/CSS/JS,REACT.
+
+# Link:https://rickandmortyapiv1.vercel.app/
+
+# Website Screenshots
 ![Screenshot](rickpage.JPG)
+#Character Card
 ![Screenshot](rickcard.JPG)
 
 # Getting Started with Create React App
