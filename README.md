@@ -7,7 +7,7 @@ The website was built using HTML/CSS/JS,REACT.
 
 # Website Screenshots
 ![Screenshot](rickpage.JPG)
-#Character Card
+# Character Card
 ![Screenshot](rickcard.JPG)
 
 # Getting Started with Create React App
